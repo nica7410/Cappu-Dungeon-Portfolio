@@ -13,8 +13,10 @@ FlameBreath(방향 지정 스킬)과 Blizzard(범위 지정 스킬)는 이펙트
 
 
 FlameBreath 시전 영상
+
 https://github.com/user-attachments/assets/9363f5a9-5fed-4f4b-b994-453972e69e14
 
 Blizzard 시전 영상
+
 https://github.com/user-attachments/assets/42f0b5e7-1907-4b29-8af6-830e3868fe2c
 
