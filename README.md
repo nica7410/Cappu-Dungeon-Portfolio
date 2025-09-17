@@ -3,6 +3,9 @@
 카푸 던전 스킬 소개<br>
 https://www.notion.so/262f15e077a98056a91be2ebcf1164b2?source=copy_link
 
+트레일러 영상<br>
+https://www.youtube.com/watch?v=d0scGXJc0s4
+
 스킬은 발동 방식과 형태에 따라 구분됩니다.
 
 다운 : 키 다운 발동<br>
