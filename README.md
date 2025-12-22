@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=d0scGXJc0s4
 몬스터 패턴 시스템<br>
 패턴 로직은 코드로 정의하되, 노드 기반 커스텀 에디터에서 조합해 동시·순차 발동 흐름을 구성하고 ScriptableObject로 저장할 수 있도록 구축했습니다.
 
-Flame Spirit 몬스터 패턴 노드 <br>
+커스텀 에디터 Flame Spirit 몬스터 패턴 노드 <br>
 <img width="1260" height="1375" alt="image" src="https://github.com/user-attachments/assets/cab59ce9-79d0-4742-97dc-e364a21b8eef" />
 
 Flame Spirit 몬스터 시전 영상<br>
