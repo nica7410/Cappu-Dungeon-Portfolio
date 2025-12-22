@@ -20,6 +20,17 @@ https://www.youtube.com/watch?v=d0scGXJc0s4
 
 카푸 던전 포트폴리오 - 소스 코드
 
+몬스터 패턴 시스템<br>
+패턴 로직은 코드로 정의하되, 노드 기반 커스텀 에디터에서 조합해 동시·순차 발동 흐름을 구성하고 ScriptableObject로 저장할 수 있도록 구축했습니다.
+
+Flame Spirit 몬스터 패턴 노드 <br>
+<img width="1260" height="1375" alt="image" src="https://github.com/user-attachments/assets/cab59ce9-79d0-4742-97dc-e364a21b8eef" />
+
+Flame Spirit 몬스터 시전 영상<br>
+<video src="https://github.com/user-attachments/assets/23f4a9f7-eb8b-40f5-b625-e35c80688e04"
+       autoplay loop muted playsinline
+       style="max-width:100%; height:auto; border-radius:12px;"></video>
+       
 어드레서블 기반 제네릭 오브젝트 풀<br>
 AddressableObjectPool<T>로 비동기 로드→인스턴스화→큐 재사용 흐름을 구성하고, EnemyAdrObjPool에서 적 스폰/반납, 보스 시작 처리 등 게임 로직에 맞게 확장했습니다. 
 
@@ -38,4 +49,8 @@ Blizzard 시전 영상<br>
 <video src="https://github.com/user-attachments/assets/42f0b5e7-1907-4b29-8af6-830e3868fe2c"
        autoplay loop muted playsinline
        style="max-width:100%; height:auto; border-radius:12px;"></video>
+
+
+
+
 
