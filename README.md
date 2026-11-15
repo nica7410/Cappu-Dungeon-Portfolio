@@ -45,7 +45,9 @@
 
 <img width="900" alt="Flame Spirit 몬스터 패턴 커스텀 에디터" src="https://github.com/user-attachments/assets/cab59ce9-79d0-4742-97dc-e364a21b8eef" />
 
-▶️ **[Flame Spirit 몬스터 패턴 시연 영상 보기](https://github.com/user-attachments/assets/23f4a9f7-eb8b-40f5-b625-e35c80688e04)**
+**Flame Spirit 몬스터 패턴 시연 영상**
+
+https://github.com/user-attachments/assets/23f4a9f7-eb8b-40f5-b625-e35c80688e04
 
 ### 어드레서블 기반 제네릭 오브젝트 풀
 
@@ -59,8 +61,12 @@
 
 **관련 코드:** [IUniqueSkillComponent.cs](./IUniqueSkillComponent.cs) · [UniqueSkillComponentBase.cs](./UniqueSkillComponentBase.cs) · [FlameBreath.cs](./FlameBreath.cs) · [Blizzard.cs](./Blizzard.cs)
 
-- ▶️ [FlameBreath 스킬 시연 영상 보기](https://github.com/user-attachments/assets/9363f5a9-5fed-4f4b-b994-453972e69e14)
-- ▶️ [Blizzard 스킬 시연 영상 보기](https://github.com/user-attachments/assets/42f0b5e7-1907-4b29-8af6-830e3868fe2c)
+**FlameBreath 스킬 시연 영상**
+
+https://github.com/user-attachments/assets/9363f5a9-5fed-4f4b-b994-453972e69e14
+**Blizzard 스킬 시연 영상**
+
+https://github.com/user-attachments/assets/42f0b5e7-1907-4b29-8af6-830e3868fe2c
 
 ### 스킬 발동 방식
 
